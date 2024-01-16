@@ -1,0 +1,39 @@
+.header {
+    display: flex;
+    border-radius: 40px;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background-color: orange;
+    height: 80px;
+    padding: 20px;
+    margin: 10px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.logo img {
+    border-radius: 100px;
+    width: 80px;
+}
+
+.navigation ul li{
+   display: inline;
+
+   margin: 20px;
+   list-style: none;
+}
+
+.navigation ul li a {
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+
+.user-icon {
+    font-size: 20px;
+}

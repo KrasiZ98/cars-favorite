@@ -1,0 +1,13 @@
+.div-wrap {
+  background-color: red;
+  border-radius: 20px;
+  width: 30%;
+  padding: 6px;
+  margin: 10px;
+}
+
+.error-message {
+  display: inline;
+
+  margin: 22px;
+}

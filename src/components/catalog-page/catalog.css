@@ -1,0 +1,115 @@
+.catalog-container {
+    margin: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.model-year-selection {
+    margin-top: 20px;
+    /* Add other styles for your model year selection */
+}
+
+.car-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.car-card {
+    width: 250px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    position: relative;
+    transition: box-shadow 0.3s;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.car-card:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.car-card img {
+    width: 100%;
+    height: auto;
+}
+
+.car-details {
+    padding: 10px;
+}
+
+.buttons {
+    /* position: absolute;
+    
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 10px; */
+    display: flex;
+    justify-content: space-around;
+}
+
+.details-button,
+.add-button {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.details-button:hover,
+.add-button:hover {
+    background-color: #2980b9;
+}
+
+.add-button {
+    background-color: #27ae60;
+}
+
+.add-button:hover {
+    background-color: #219952;
+}
+
+
+
+.model-year-selection {
+    margin-top: 20px;
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+.model-year-selection label {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.model-year-selection select {
+    width: 100%;
+    padding: 8px;
+    font-size: 14px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.btn-submit {
+    width: 100%;
+    padding: 8px;
+    font-size: 14px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.add-button_disabled {
+    background-color: gray;
+}

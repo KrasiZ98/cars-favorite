@@ -1,0 +1,14 @@
+.footer-container {
+    
+    align-items: center;
+    text-align: center;
+    background-color: orange;
+    height: 20px;
+    padding: 20px;
+    
+    color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+
+}
