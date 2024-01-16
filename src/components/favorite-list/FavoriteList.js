@@ -4,6 +4,7 @@ import './favoriteList.css'
 import React, { useContext } from 'react'
 
 export const FavoriteList = () => {
+    
     const { favoriteCars } = useContext(CarContext);
 
    
