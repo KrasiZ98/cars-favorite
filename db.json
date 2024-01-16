@@ -1,0 +1,356 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2022,
+      "fuelType": "Gasoline",
+      "transmission": "Automatic",
+      "image": "https://cfx-wp-images.imgix.net/2022/01/Toyota-Camry-TRD-Front-scaled.jpg?auto=compress%2Cformat&focalpoint=focalpoint&fp-x=0.6110912378344843&fp-y=0.5354027446008255&ixlib=php-3.3.0&s=bf92a2d10f337047e0cc0111e37231e3",
+      "price": 25000,
+      "disabled": false
+    },
+    {
+      "id": 2,
+      "make": "Ford",
+      "model": "Mustang",
+      "year": 2023,
+      "fuelType": "Diesel",
+      "transmission": "Manual",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/4e9a7794-1663012415.jpg",
+      "price": 35000,
+      "disabled": false
+    },
+    {
+      "id": 3,
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2021,
+      "fuelType": "Hybrid",
+      "transmission": "CVT",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHQ7pW0PnoW0BCXe5UXTE12UKym-kvfg5xoJfrPD5D-A&s",
+      "price": 27000,
+      "disabled": false
+    },
+    {
+      "id": 4,
+      "make": "Chevrolet",
+      "model": "Silverado",
+      "year": 2020,
+      "fuelType": "Gasoline",
+      "transmission": "Automatic",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlc5iuUuANEyctbDrHshhbt0m_NEgi9ru8ePXtwWkMjQ&s",
+      "price": 40000,
+      "disabled": false
+    },
+    {
+      "id": 5,
+      "make": "Nissan",
+      "model": "Altima",
+      "year": 2022,
+      "fuelType": "Electric",
+      "transmission": "CVT",
+      "image": "https://media.ed.edmunds-media.com/nissan/altima/2020/oem/2020_nissan_altima_sedan_25-platinum_fq_oem_1_1280.jpg",
+      "price": 30000,
+      "disabled": false
+    },
+    {
+      "id": 6,
+      "make": "BMW",
+      "model": "X5",
+      "year": 2023,
+      "fuelType": "Diesel",
+      "transmission": "Automatic",
+      "image": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1675682840/autoexpress/2023/02/BMW%20X5%20facelift%202023-9.jpg",
+      "price": 55000,
+      "disabled": false
+    },
+    {
+      "id": 7,
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": 2021,
+      "fuelType": "Gasoline",
+      "transmission": "Automatic",
+      "image": "https://www.topgear.com/sites/default/files/2021/11/Mercedes_C300D_0000.jpg",
+      "price": 48000,
+      "disabled": false
+    },
+    {
+      "id": 8,
+      "make": "Audi",
+      "model": "A4",
+      "year": 2022,
+      "fuelType": "Electric",
+      "transmission": "Automatic",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2022-audi-a4-f-mmp-2-1621027796.jpg?crop=0.745xw:0.683xh;0.0226xw,0.212xh&resize=980:*",
+      "price": 42000,
+      "disabled": false
+    },
+    {
+      "id": 9,
+      "make": "Ford",
+      "model": "Explorer",
+      "year": 2020,
+      "fuelType": "Hybrid",
+      "transmission": "Automatic",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2020-ford-explorer-platinum-104-1560790473.jpg",
+      "price": 38000,
+      "disabled": false
+    },
+    {
+      "id": 10,
+      "make": "Toyota",
+      "model": "Rav4",
+      "year": 2022,
+      "fuelType": "Gasoline",
+      "transmission": "CVT",
+      "image": "https://www.longotoyota.com/blogs/4337/wp-content/uploads/2023/01/2023-Toyota-RAV4.jpg",
+      "price": 32000,
+      "disabled": false
+    },
+    {
+      "id": 11,
+      "make": "Tesla",
+      "model": "Model 3",
+      "year": 2023,
+      "fuelType": "Electric",
+      "transmission": "Automatic",
+      "image": "https://cars.usnews.com/static/images/Auto/custom/15203/2023_Tesla_Model_3_Angular_Front_1.jpg",
+      "price": 60000,
+      "disabled": false
+    },
+    {
+      "id": 12,
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "year": 2021,
+      "fuelType": "Gasoline",
+      "transmission": "CVT",
+      "image": "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2d8b52c7-b91e-4048-af29-28a98159a5d0/12b5c3c7-a2dc-454c-aa18-f337021e0ddc.png",
+      "price": 35000,
+      "disabled": false
+    },
+    {
+      "id": 13,
+      "make": "Subaru",
+      "model": "Outback",
+      "year": 2022,
+      "fuelType": "Hybrid",
+      "transmission": "Automatic",
+      "image": "https://media.ed.edmunds-media.com/subaru/outback/2022/oem/2022_subaru_outback_4dr-suv_limited_fq_oem_1_1280.jpg",
+      "price": 33000,
+      "disabled": false
+    },
+    {
+      "id": 14,
+      "make": "Volkswagen",
+      "model": "Golf",
+      "year": 2020,
+      "fuelType": "Diesel",
+      "transmission": "Manual",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2020-volkswagen-golf-mmp-2-1581098314.jpg",
+      "price": 28000,
+      "disabled": false
+    },
+    {
+      "id": 15,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "year": 2023,
+      "fuelType": "Gasoline",
+      "transmission": "CVT",
+      "image": "https://images.carexpert.com.au/resize/3000/-/app/uploads/2022/12/Hyundai-Tucson-Highlander-2.0D-CRDi-AWD_HERO-16x9-1.jpg",
+      "price": 29000,
+      "disabled": false
+    },
+    {
+      "id": 16,
+      "make": "Mazda",
+      "model": "CX-5",
+      "year": 2021,
+      "fuelType": "Gasoline",
+      "transmission": "Automatic",
+      "image": "https://www.motortrend.com/uploads/sites/5/2021/01/2021-Mazda-CX-5-Signature-AWD-Turbo-9.jpg",
+      "price": 31000,
+      "disabled": false
+    },
+    {
+      "id": 17,
+      "make": "Lexus",
+      "model": "RX",
+      "year": 2022,
+      "fuelType": "Hybrid",
+      "transmission": "CVT",
+      "image": "https://carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_cg_hero_large/v1/editorial/2022-Lexus-RX-350-F-Sport-1001x565.jpg",
+      "price": 50000,
+      "disabled": false
+    },
+    {
+      "id": 18,
+      "make": "Ford",
+      "model": "Escape",
+      "year": 2023,
+      "fuelType": "Electric",
+      "transmission": "Automatic",
+      "image": "https://media.ed.edmunds-media.com/ford/escape/2023/oem/2023_ford_escape_4dr-suv_st-line-elite_fq_oem_1_1600.jpg",
+      "price": 34000,
+      "disabled": false
+    },
+    {
+      "id": 19,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "year": 2020,
+      "fuelType": "Diesel",
+      "transmission": "Automatic",
+      "image": "https://editorials.autotrader.ca/media/179189/2020-jeep-grand-cherokee-summit-02-dh.jpg?anchor=center&mode=crop&width=1920&height=1080&rnd=132306577675900000",
+      "price": 45000,
+      "disabled": false
+    },
+    {
+      "id": 20,
+      "make": "Kia",
+      "model": "Sorento",
+      "year": 2021,
+      "fuelType": "Gasoline",
+      "transmission": "CVT",
+      "image": "https://media.ed.edmunds-media.com/kia/sorento/2021/oem/2021_kia_sorento_4dr-suv_sx-prestige-x-line_fq_oem_1_1600.jpg",
+      "price": 32000,
+      "disabled": false
+    },
+    {
+      "id": 21,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "year": 2022,
+      "fuelType": "Hybrid",
+      "transmission": "Automatic",
+      "image": "https://media.ed.edmunds-media.com/chrysler/pacifica/2021/oem/2021_chrysler_pacifica_passenger-minivan_hybrid-pinnacle_fq_oem_1_1600.jpg",
+      "price": 40000,
+      "disabled": false
+    },
+    {
+      "id": 22,
+      "make": "Buick",
+      "model": "Enclave",
+      "year": 2023,
+      "fuelType": "Gasoline",
+      "transmission": "Automatic",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL1_0IJEM3gWBDbUsVk4Of5zawBq4Hhu9AQYxt4lwrJKsR-q5H8U5tZUknha9S6JQiXuk&usqp=CAU",
+      "price": 42000,
+      "disabled": false
+    },
+    {
+      "id": 23,
+      "make": "Acura",
+      "model": "MDX",
+      "year": 2021,
+      "fuelType": "Hybrid",
+      "transmission": "CVT",
+      "image": "https://i.ytimg.com/vi/SKw-y9nip7A/maxresdefault.jpg",
+      "price": 48000,
+      "disabled": false
+    },
+    {
+      "id": 24,
+      "make": "Infiniti",
+      "model": "Q50",
+      "year": 2022,
+      "fuelType": "Gasoline",
+      "transmission": "Automatic",
+      "image": "https://di-uploads-pod33.dealerinspire.com/ajaxinfiniti/uploads/2022/05/ben-duke-un61QtzucVg-unsplash.jpg",
+      "price": 38000,
+      "disabled": false
+    },
+    {
+      "id": 25,
+      "make": "Land Rover",
+      "model": "Discovery",
+      "year": 2020,
+      "fuelType": "Diesel",
+      "transmission": "Automatic",
+      "image": "https://avtotachki.com/wp-content/uploads/2022/03/obzor-land-rover-discovery-2020-sd-v6-hse.jpg",
+      "price": 60000,
+      "disabled": false
+    },
+    {
+      "id": 26,
+      "make": "Lincoln",
+      "model": "Aviator",
+      "year": 2021,
+      "fuelType": "Hybrid",
+      "transmission": "Automatic",
+      "image": "https://edgecast-img.yahoo.net/mysterio/api/82D71CB005D20C81261B0A2CE37143FCF1312B8A6AD9CE9699E36DF039AC736C/autoblog/resizefill_w1200_h720;quality_85;format_webp;cc_31536000;/https://o.aolcdn.com/images/dims3/GLOB/crop/4215x2371+469+545/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2021/01/14141558/IMG_8821.jpg",
+      "price": 52000,
+      "disabled": false
+    },
+    {
+      "id": 27,
+      "make": "Volvo",
+      "model": "XC90",
+      "year": 2022,
+      "fuelType": "Electric",
+      "transmission": "Automatic",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2022-volvo-xc90-recharge-t8-108-1656508649.jpg?crop=0.647xw:0.484xh;0.171xw,0.369xh&resize=1200:*",
+      "price": 55000,
+      "disabled": false
+    },
+    {
+      "id": 28,
+      "make": "Porsche",
+      "model": "911",
+      "year": 2023,
+      "fuelType": "Gasoline",
+      "transmission": "Manual",
+      "image": "https://i.ytimg.com/vi/GXwaQIZJkp8/maxresdefault.jpg",
+      "price": 80000,
+      "disabled": false
+    },
+    {
+      "id": 29,
+      "make": "Subaru",
+      "model": "Impreza",
+      "year": 2022,
+      "fuelType": "Gasoline",
+      "transmission": "CVT",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2022-subaru-impreza-mmp-1-1624482155.jpg",
+      "price": 27000,
+      "disabled": false
+    },
+    {
+      "id": 30,
+      "make": "Honda",
+      "model": "Accord",
+      "year": 2023,
+      "fuelType": "Hybrid",
+      "transmission": "CVT",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Honda_Accord_%28CV3%29_EX_eHEV%2C_2021%2C_front.jpg/1200px-Honda_Accord_%28CV3%29_EX_eHEV%2C_2021%2C_front.jpg",
+      "price": 32000,
+      "disabled": false
+    }
+  ],
+  "users": [
+    {
+      "email": "krasi@abv.bg",
+      "username": "krasi98",
+      "password": "123456",
+      "reppass": "123456",
+      "image": "https://4.bp.blogspot.com/-uhbHaCPo4Uw/T2T6vKE9XzI/AAAAAAAAHuU/SYmb6BMsgjg/s1600/427049_228666173898071_147839825314040_431213_2048117155_n.jpg",
+      "_id": "d2ceb01e-5beb-4e6b-a8b9-a018dba7714e",
+      "favoriteList": [],
+      "id": 1
+    },
+    {
+      "email": "miro@abv.bg",
+      "username": "miro96",
+      "password": "123456",
+      "reppass": "123456",
+      "image": "https://4.bp.blogspot.com/-uhbHaCPo4Uw/T2T6vKE9XzI/AAAAAAAAHuU/SYmb6BMsgjg/s1600/427049_228666173898071_147839825314040_431213_2048117155_n.jpg",
+      "_id": "0995a0e9-3ed4-4fe0-8c20-efeb1fa7a835",
+      "favoriteList": [],
+      "id": 2
+    }
+  ]
+}
